@@ -1,0 +1,15 @@
+{ "products": [{
+  "title": "grey tshirt",
+  "description": "It's a grey tshirt...",
+  "cost": 5
+
+}, {
+  "title": "Armani Grey shirt",
+  "description": "It's a grey tshirt...but it's Armani!",
+  "cost": 500
+}, {
+  "title": "Slippers",
+  "description": "To go with your grey tshirt.",
+  "cost": 5
+  }]
+}
